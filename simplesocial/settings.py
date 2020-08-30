@@ -23,7 +23,7 @@ TEMPLATE_DIR=os.path.join(BASE_DIR,'templates')
 SECRET_KEY = '0ox-lur)vlc7_kn_v1(5f@tnv#0br*ll_svhm6wpsa13ua9kqb'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['puneethv-crm1.herokuapp.com','127.0.0.1']
 
